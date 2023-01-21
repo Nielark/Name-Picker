@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1672139493 source:c:\users\mark daniel\onedrive\desktop\c++ practice\name picker\main.cpp
+	<iostream>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+	<ctime>
+
